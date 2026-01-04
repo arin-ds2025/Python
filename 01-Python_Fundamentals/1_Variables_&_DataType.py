@@ -1,7 +1,7 @@
 age =  21  # integer data type
 name = "Arin Ahmed" # string data type
-cgpa = 3.61 # float data type
-is_married = False # bool data type
+cgpa = 3.61 # floating data type
+is_married = False # boolean data type
 
 print("name: ",name,", age: ",age,", cgpa: ",cgpa,", is married: ",is_married)
 print("name: ",type(name))
